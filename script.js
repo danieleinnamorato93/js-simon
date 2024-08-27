@@ -77,3 +77,9 @@ function startGame() {
     }, displayTime);
 }
 
+//eventi
+
+startGame(); 
+
+checkButton.addEventListener('click', checkNumbers); 
+
